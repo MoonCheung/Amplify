@@ -1,0 +1,26 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-vuecognitos-dev-223334-authRole",
+            "UnauthRoleArn": "arn:aws:iam::107633472726:role/amplify-vuecognitos-dev-223334-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::107633472726:role/amplify-vuecognitos-dev-223334-authRole",
+            "Region": "ap-southeast-2",
+            "DeploymentBucketName": "amplify-vuecognitos-dev-223334-deployment",
+            "UnauthRoleName": "amplify-vuecognitos-dev-223334-unauthRole",
+            "StackName": "amplify-vuecognitos-dev-223334",
+            "StackId": "arn:aws:cloudformation:ap-southeast-2:107633472726:stack/amplify-vuecognitos-dev-223334/c4064460-b170-11ea-bf9f-0ac26335768c",
+            "AmplifyAppId": "d3vllaqwvwf8c"
+        },
+        "categories": {
+            "auth": {
+                "vuecognitos031b11c9": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d3vllaqwvwf8c",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
