@@ -14,6 +14,12 @@
         "categories": {
             "auth": {
                 "vuecognitos031b11c9": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d3vllaqwvwf8c",
+                    "type": "manual"
+                }
             }
         }
     }
