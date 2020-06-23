@@ -1,18 +1,18 @@
 <template>
   <div id="app">
-    <amplify-authenticator>
-      <!-- The rest of your app code -->
-      <amplify-sign-out></amplify-sign-out>
-    </amplify-authenticator>
+    <router-view />
   </div>
 </template>
 
 <style lang="scss">
+body {
+  background-color: #f5f5f5;
+}
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #2c3e50;
 }
 
